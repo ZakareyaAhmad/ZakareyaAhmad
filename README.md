@@ -1,6 +1,6 @@
-👨‍💻 Computer Science Undergrad | Contractor
+👨‍💻 Computer Science Undergrad | Full Stack Developer
 🔗 LinkedIn: https://www.linkedin.com/in/zakareya-a-2033612b8/
 
-💻 Skills: HTML | C | Java | Python | JavaScript | SQL | Linux
+💻 Skills: Java | Python | JavaScript | HTML | C++ | SQL 
 
-CS undergrad and contractor passionate about building robust web applications and aspiring to become a full-stack engineer. With a keen interest in cybersecurity, I'm dedicated to enhancing the security of digital platforms.
+CS undergrad and full stack developer passionate about building robust applications and aspiring to become a full-stack developer.
