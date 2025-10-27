@@ -2,5 +2,5 @@
 
 🔗 LinkedIn: https://www.linkedin.com/in/zakareya-ahmad-067879338/
 
-💻 Skills: Java | Python | SQL | Linux | Git
+💻 Skills: Java | Python | SQL | Snowflake | DBT
 
