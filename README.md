@@ -1,19 +1,15 @@
-**Data Engineer**
+# 💫 About Me:
+Data Engineer<br><br>Design and build cloud-native data platforms on AWS, specialising in secure storage integration, modular transformation architecture, and reproducible infrastructure.<br><br>Experience spans the full data engineering lifecycle — from ingestion and immutable RAW data lake design to warehouse modelling, orchestration, infrastructure as code, and CI validation. Recent work includes an end-to-end analytics platform integrating Postgres, SaaS APIs, CSV feeds, and event telemetry into Snowflake via an S3 RAW layer, orchestrated with Prefect and managed through Terraform and GitHub Actions.<br><br>Core Areas<br>Cloud Data Platforms (AWS + Snowflake)<br>dbt transformation frameworks (staging → intermediate → marts)<br>Infrastructure as Code (Terraform)<br>Secure IAM design & storage integrations<br>End-to-end pipeline orchestration (Prefect)<br>CI/CD for data systems<br>Key Technologies<br>Snowflake · AWS · dbt · Terraform · Python · SQL · Docker · PostgreSQL · GitHub Actions
 
-Design and build cloud-native data platforms on AWS, specialising in secure storage integration, modular transformation architecture, and reproducible infrastructure.
 
-Experience spans the full data engineering lifecycle — from ingestion and immutable RAW data lake design to warehouse modelling, orchestration, infrastructure as code, and CI validation. Recent work includes an end-to-end analytics platform integrating Postgres, SaaS APIs, CSV feeds, and event telemetry into Snowflake via an S3 RAW layer, orchestrated with Prefect and managed through Terraform and GitHub Actions.
+## 🌐 Socials:
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/www.linkedin.com/in/zakareya-ahmad-067879338/) 
 
-## Core Areas
-- Cloud Data Platforms (AWS + Snowflake)
-- dbt transformation frameworks (staging → intermediate → marts)
-- Infrastructure as Code (Terraform)
-- Secure IAM design & storage integrations
-- End-to-end pipeline orchestration (Prefect)
-- CI/CD for data systems
+# 💻 Tech Stack:
+![Snowflake](https://img.shields.io/badge/snowflake-%2329B5E8.svg?style=for-the-badge&logo=snowflake&logoColor=white) ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white) ![Terraform](https://img.shields.io/badge/terraform-%235835CC.svg?style=for-the-badge&logo=terraform&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white) ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![GitLab CI](https://img.shields.io/badge/gitlab%20CI-%23181717.svg?style=for-the-badge&logo=gitlab&logoColor=white) ![GitHub Actions](https://img.shields.io/badge/github%20actions-%232671E5.svg?style=for-the-badge&logo=githubactions&logoColor=white) ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
+# 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username=ZakareyaAhmad&theme=dark&hide_border=false&include_all_commits=true&count_private=true)<br/>
+![](https://nirzak-streak-stats.vercel.app/?user=ZakareyaAhmad&theme=dark&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=ZakareyaAhmad&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
-## Key Technologies
-Snowflake · AWS · dbt · Terraform · Python · SQL · Docker · PostgreSQL · GitHub Actions
-
-**LinkedIn**  
-www.linkedin.com/in/zakareya-ahmad-067879338/
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
