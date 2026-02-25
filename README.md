@@ -1,4 +1,3 @@
-## Zakareya Ahmad  
 **Data Engineer**
 
 Design and build cloud-native data platforms on AWS, specialising in secure storage integration, modular transformation architecture, and reproducible infrastructure.
